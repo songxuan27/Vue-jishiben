@@ -1,2 +1,1 @@
-# Vue-jishiben
-study vue
+Vue写的记事本，练手用
